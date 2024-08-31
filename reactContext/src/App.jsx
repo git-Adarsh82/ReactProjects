@@ -7,7 +7,7 @@ function App() {
 
   return (
     <UserContextProvider>
-      <h1>React with Chai and share is important</h1>
+      <h1>Welcome to our Login page</h1>
       <Login />
       <Profile />
     </UserContextProvider>
